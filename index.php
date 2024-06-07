@@ -6,8 +6,8 @@
 
 <body>
 <center>
-<?php echo "<h2>Cloud Admin - BDP IT</h2>"; ?>
-<?php echo "<p><b>Welcome To OpenShift!</b></p>"; ?>  
+<?php echo "<h2>Cloud Admin - BDP IT - v2</h2>"; ?>
+<?php echo "<p><b>Welcome To RAVELINO</b></p>"; ?>  
 </center>
 </body>
 </html>
