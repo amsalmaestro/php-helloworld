@@ -6,7 +6,7 @@
 
 <body>
 <center>
-<?php echo "<h2>Cloud Admin - BDP IT - v1</h2>"; ?> 
+<?php echo "<h2>Cloud Admin - BDP IT - v2</h2>"; ?> 
 </center>
 </body>
 </html>
